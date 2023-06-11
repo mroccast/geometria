@@ -6,7 +6,10 @@ public class Circulo_MTRC extends FiguraGeometrica_MTRC {
 	
 	public Circulo_MTRC(double r, String tipoFigura) {
 		super(tipoFigura);
-		radio = r;
+		if(r < 0)
+			radio = -1 * r;
+		else
+			radio = r;
 	}
 
 	@Override
