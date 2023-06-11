@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"Circulo_MTRC"},{"p":"<Unnamed>","l":"FiguraGeometrica_MTRC"},{"p":"<Unnamed>","l":"Rectangulo_MTRC"},{"p":"<Unnamed>","l":"Triangulo_MTRC"}]
