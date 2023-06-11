@@ -22,8 +22,4 @@ public class Triangulo_MTRC extends FiguraGeometrica_MTRC {
 		sp = this.semiPerimetro();
 		return Math.sqrt(sp * (sp- lado1) * (sp- lado2) * (sp- lado3));
 	}
-	
-	public double semiPerimetro() {
-		return this.perimetro() / 2;
-	}
 }
